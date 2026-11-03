@@ -1,0 +1,387 @@
+{
+ "key": "3f20c6d6",
+ "stars": 5,
+ "contributions": 759,
+ "repos": 25,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   2507656
+  ],
+  [
+   "JavaScript",
+   1661379
+  ],
+  [
+   "CSS",
+   576815
+  ],
+  [
+   "HTML",
+   563303
+  ],
+  [
+   "Python",
+   130896
+  ],
+  [
+   "PHP",
+   5234
+  ],
+  [
+   "Nix",
+   724
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 13,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 10
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "anizone",
+   "url": "https://github.com/ryouhtml/anizone",
+   "text": "",
+   "fork": false,
+   "stars": 5,
+   "language": "JavaScript",
+   "topics": [
+    "anime",
+    "anime-api",
+    "anime-downloader",
+    "anime-list",
+    "anime-scraper",
+    "anime-search",
+    "anime-streaming",
+    "anime-website",
+    "streaming",
+    "streaming-video"
+   ]
+  },
+  {
+   "name": "portofolio",
+   "url": "https://github.com/ryouhtml/portofolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "kirastream-api",
+   "url": "https://github.com/ryouhtml/kirastream-api",
+   "text": "KiraStream backend - Express (Node.js) API: image proxy and Webtoons scraper",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "kirastream-ui",
+   "url": "https://github.com/ryouhtml/kirastream-ui",
+   "text": "KiraStream frontend - Next.js 14 UI (anime/manga/novel/webtoon streaming platform)",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ssh-dhcp",
+   "url": "https://github.com/ryouhtml/ssh-dhcp",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "botwa",
+   "url": "https://github.com/ryouhtml/botwa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "kasir",
+   "url": "https://github.com/ryouhtml/kasir",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ssh",
+   "url": "https://github.com/ryouhtml/ssh",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "MOKU",
+   "url": "https://github.com/ryouhtml/MOKU",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "appdev",
+    "appdevelopment",
+    "coffee",
+    "coffee-shop",
+    "coffee-shop-website",
+    "coffeeshop",
+    "umkm",
+    "umkm-app",
+    "umkm-indonesia"
+   ]
+  },
+  {
+   "name": "ekolokal-app",
+   "url": "https://github.com/ryouhtml/ekolokal-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "jcc2026",
+   "url": "https://github.com/ryouhtml/jcc2026",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "api",
+   "url": "https://github.com/ryouhtml/api",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "kirastream",
+   "url": "https://github.com/ryouhtml/kirastream",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "media-downloader",
+   "url": "https://github.com/ryouhtml/media-downloader",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "anizone-comic",
+   "url": "https://github.com/ryouhtml/anizone-comic",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "test-otkds",
+   "url": "https://github.com/ryouhtml/test-otkds",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "claude-promotion-group-4",
+   "url": "https://github.com/ryouhtml/claude-promotion-group-4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "cancer-ai",
+   "url": "https://github.com/ryouhtml/cancer-ai",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "anizone-promotion",
+   "url": "https://github.com/ryouhtml/anizone-promotion",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "hbd-natalie",
+   "url": "https://github.com/ryouhtml/hbd-natalie",
+   "text": "dari edgar tercinta🥰",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "bootstrap-php",
+   "url": "https://github.com/ryouhtml/bootstrap-php",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "sambac",
+   "url": "https://github.com/ryouhtml/sambac",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "sambag",
+   "url": "https://github.com/ryouhtml/sambag",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "kanabot",
+   "url": "https://github.com/ryouhtml/kanabot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ryouhtml",
+   "url": "https://github.com/ryouhtml/ryouhtml",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
