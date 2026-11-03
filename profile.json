@@ -23,7 +23,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "HIDUP VIBE CODER!",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -42,15 +42,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Wangsit Bagus Satriatama"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Vibe Coder"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "music_note",
+        "label": "All Vocaloid, Ado, Yoasobi"
       }
     ]
   },
@@ -141,15 +141,16 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://ryou.my.id",
         "style": "filled"
       },
       {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
+        "url": "https://github.com/ryouhtml?tab=repositories",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
