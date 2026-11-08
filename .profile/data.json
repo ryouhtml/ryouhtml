@@ -1,17 +1,17 @@
 {
- "key": "b37b6d4a",
+ "key": "5f7ce6f6",
  "stars": 5,
- "contributions": 771,
- "repos": 25,
+ "contributions": 774,
+ "repos": 26,
  "followers": 1,
  "languages": [
   [
-   "TypeScript",
-   2736373
+   "JavaScript",
+   5687536
   ],
   [
-   "JavaScript",
-   1663837
+   "TypeScript",
+   2736373
   ],
   [
    "CSS",
@@ -23,7 +23,7 @@
   ],
   [
    "Python",
-   130896
+   196344
   ],
   [
    "PHP",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 3,
     "day": 8,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 10
  },
  "pins": [],
@@ -148,6 +148,15 @@
     "streaming",
     "streaming-video"
    ]
+  },
+  {
+   "name": "botrailway",
+   "url": "https://github.com/ryouhtml/botrailway",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
   },
   {
    "name": "portofolio",
