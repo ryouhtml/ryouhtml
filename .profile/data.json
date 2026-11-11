@@ -1,25 +1,25 @@
 {
- "key": "6f855b52",
+ "key": "899bcbc4",
  "stars": 5,
- "contributions": 791,
- "repos": 26,
+ "contributions": 809,
+ "repos": 27,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   5688672
+   5721160
   ],
   [
    "TypeScript",
-   2736373
-  ],
-  [
-   "CSS",
-   576815
+   2663371
   ],
   [
    "HTML",
-   563303
+   588585
+  ],
+  [
+   "CSS",
+   573916
   ],
   [
    "Python",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 18,
     "day": 11,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 10
  },
  "pins": [],
@@ -162,6 +162,15 @@
    ]
   },
   {
+   "name": "buatshelly",
+   "url": "https://github.com/ryouhtml/buatshelly",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "botrailway",
    "url": "https://github.com/ryouhtml/botrailway",
    "text": "",
@@ -176,7 +185,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "JavaScript",
    "topics": []
   },
   {
