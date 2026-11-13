@@ -1,5 +1,5 @@
 {
- "key": "781937a3",
+ "key": "a53673a3",
  "stars": 5,
  "contributions": 809,
  "repos": 27,
@@ -133,14 +133,18 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 10
  },
  "pins": [],
