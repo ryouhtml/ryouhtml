@@ -1,17 +1,13 @@
 {
- "key": "7eadafca",
+ "key": "43814795",
  "stars": 5,
- "contributions": 819,
+ "contributions": 822,
  "repos": 28,
  "followers": 1,
  "languages": [
   [
-   "Kotlin",
-   11792673
-  ],
-  [
    "JavaScript",
-   6101099
+   5721160
   ],
   [
    "TypeScript",
@@ -19,7 +15,7 @@
   ],
   [
    "HTML",
-   788464
+   588585
   ],
   [
    "CSS",
@@ -27,11 +23,15 @@
   ],
   [
    "Python",
-   242821
+   196344
   ],
   [
-   "C++",
-   33149
+   "Rust",
+   71462
+  ],
+  [
+   "Kotlin",
+   11837
   ]
  ],
  "days": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 19,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 10
  },
  "pins": [],
@@ -171,7 +171,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "Kotlin",
+   "language": "Rust",
    "topics": []
   },
   {
