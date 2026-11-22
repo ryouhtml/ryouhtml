@@ -1,37 +1,37 @@
 {
- "key": "c74cbb60",
+ "key": "d0ba7e0e",
  "stars": 5,
- "contributions": 822,
+ "contributions": 831,
  "repos": 28,
  "followers": 1,
  "languages": [
   [
+   "Dart",
+   9008963
+  ],
+  [
    "JavaScript",
-   5721160
+   5722778
   ],
   [
    "TypeScript",
    2663371
   ],
   [
+   "Rust",
+   2163996
+  ],
+  [
    "HTML",
-   588585
+   728228
   ],
   [
    "CSS",
    573916
   ],
   [
-   "Python",
-   196344
-  ],
-  [
-   "Rust",
-   71462
-  ],
-  [
    "Kotlin",
-   11837
+   521939
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 9,
     "day": 22,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 10
  },
  "pins": [],
@@ -155,7 +155,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "Rust",
+   "language": "Dart",
    "topics": []
   },
   {
